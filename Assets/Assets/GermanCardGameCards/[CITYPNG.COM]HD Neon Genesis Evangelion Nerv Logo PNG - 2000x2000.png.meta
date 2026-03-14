@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 24ef81c0887155140ab30a3e4598e972
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1509127949657307666
+    second: '[CITYPNG.COM]HD Neon Genesis Evangelion Nerv Logo PNG - 2000x2000_0'
+  - first:
+      213: 6719236184411839768
+    second: '[CITYPNG.COM]HD Neon Genesis Evangelion Nerv Logo PNG - 2000x2000_1'
+  - first:
+      213: 4129291054097253875
+    second: '[CITYPNG.COM]HD Neon Genesis Evangelion Nerv Logo PNG - 2000x2000_2'
+  - first:
+      213: -5349231298657559517
+    second: '[CITYPNG.COM]HD Neon Genesis Evangelion Nerv Logo PNG - 2000x2000_3'
+  - first:
+      213: -1982727753004907397
+    second: '[CITYPNG.COM]HD Neon Genesis Evangelion Nerv Logo PNG - 2000x2000_4'
+  - first:
+      213: 8186512355156411089
+    second: '[CITYPNG.COM]HD Neon Genesis Evangelion Nerv Logo PNG - 2000x2000_5'
+  - first:
+      213: 2969680733672806202
+    second: '[CITYPNG.COM]HD Neon Genesis Evangelion Nerv Logo PNG - 2000x2000_6'
+  - first:
+      213: -442486094965736197
+    second: '[CITYPNG.COM]HD Neon Genesis Evangelion Nerv Logo PNG - 2000x2000_7'
+  - first:
+      213: 9168465379813138369
+    second: '[CITYPNG.COM]HD Neon Genesis Evangelion Nerv Logo PNG - 2000x2000_8'
+  - first:
+      213: 2671114480024761621
+    second: '[CITYPNG.COM]HD Neon Genesis Evangelion Nerv Logo PNG - 2000x2000_9'
+  - first:
+      213: 5880644100126468205
+    second: '[CITYPNG.COM]HD Neon Genesis Evangelion Nerv Logo PNG - 2000x2000_10'
+  - first:
+      213: 5709569500977765929
+    second: '[CITYPNG.COM]HD Neon Genesis Evangelion Nerv Logo PNG - 2000x2000_11'
+  - first:
+      213: -2961638811535485317
+    second: '[CITYPNG.COM]HD Neon Genesis Evangelion Nerv Logo PNG - 2000x2000_12'
+  - first:
+      213: 4555900221315454493
+    second: '[CITYPNG.COM]HD Neon Genesis Evangelion Nerv Logo PNG - 2000x2000_13'
+  - first:
+      213: 7245736932219543742
+    second: '[CITYPNG.COM]HD Neon Genesis Evangelion Nerv Logo PNG - 2000x2000_14'
+  - first:
+      213: 7170298992798590545
+    second: '[CITYPNG.COM]HD Neon Genesis Evangelion Nerv Logo PNG - 2000x2000_15'
+  - first:
+      213: -547416514927750504
+    second: '[CITYPNG.COM]HD Neon Genesis Evangelion Nerv Logo PNG - 2000x2000_16'
+  - first:
+      213: 4662010780375363778
+    second: '[CITYPNG.COM]HD Neon Genesis Evangelion Nerv Logo PNG - 2000x2000_17'
+  - first:
+      213: 646111088725667574
+    second: '[CITYPNG.COM]HD Neon Genesis Evangelion Nerv Logo PNG - 2000x2000_18'
+  - first:
+      213: 757112188332828940
+    second: '[CITYPNG.COM]HD Neon Genesis Evangelion Nerv Logo PNG - 2000x2000_19'
+  - first:
+      213: 1500297424121942414
+    second: '[CITYPNG.COM]HD Neon Genesis Evangelion Nerv Logo PNG - 2000x2000_20'
+  - first:
+      213: -3315801540691942347
+    second: '[CITYPNG.COM]HD Neon Genesis Evangelion Nerv Logo PNG - 2000x2000_21'
+  - first:
+      213: 8678585839079112911
+    second: '[CITYPNG.COM]HD Neon Genesis Evangelion Nerv Logo PNG - 2000x2000_22'
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: '[CITYPNG.COM]HD Neon Genesis Evangelion Nerv Logo PNG - 2000x2000_0'
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 988
+        width: 359
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21affefdfdf71f410800000000000000
+      internalID: 1509127949657307666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[CITYPNG.COM]HD Neon Genesis Evangelion Nerv Logo PNG - 2000x2000_1'
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 488
+        width: 1161
+        height: 1333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d91dda5b58f3d50800000000000000
+      internalID: 6719236184411839768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[CITYPNG.COM]HD Neon Genesis Evangelion Nerv Logo PNG - 2000x2000_2'
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 561
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f54aa5f5503e4930800000000000000
+      internalID: 4129291054097253875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[CITYPNG.COM]HD Neon Genesis Evangelion Nerv Logo PNG - 2000x2000_3'
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 528
+        width: 72
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32c5d1ea976b3c5b0800000000000000
+      internalID: -5349231298657559517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[CITYPNG.COM]HD Neon Genesis Evangelion Nerv Logo PNG - 2000x2000_4'
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 484
+        width: 74
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7485d31d9feb74e0800000000000000
+      internalID: -1982727753004907397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[CITYPNG.COM]HD Neon Genesis Evangelion Nerv Logo PNG - 2000x2000_5'
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 530
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d2c17eec955c9170800000000000000
+      internalID: 8186512355156411089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[CITYPNG.COM]HD Neon Genesis Evangelion Nerv Logo PNG - 2000x2000_6'
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 422
+        width: 94
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3793eaa4ec663920800000000000000
+      internalID: 2969680733672806202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[CITYPNG.COM]HD Neon Genesis Evangelion Nerv Logo PNG - 2000x2000_7'
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 349
+        width: 117
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfc7483bd39fbd9f0800000000000000
+      internalID: -442486094965736197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[CITYPNG.COM]HD Neon Genesis Evangelion Nerv Logo PNG - 2000x2000_8'
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 370
+        width: 124
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cf9a33bfaeec3f70800000000000000
+      internalID: 9168465379813138369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[CITYPNG.COM]HD Neon Genesis Evangelion Nerv Logo PNG - 2000x2000_9'
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 457
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5153748a774b11520800000000000000
+      internalID: 2671114480024761621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[CITYPNG.COM]HD Neon Genesis Evangelion Nerv Logo PNG - 2000x2000_10'
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 270
+        width: 124
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d68e88ee6ae3c9150800000000000000
+      internalID: 5880644100126468205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[CITYPNG.COM]HD Neon Genesis Evangelion Nerv Logo PNG - 2000x2000_11'
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 247
+        width: 134
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e1f26e5377c3f40800000000000000
+      internalID: 5709569500977765929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[CITYPNG.COM]HD Neon Genesis Evangelion Nerv Logo PNG - 2000x2000_12'
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 316
+        width: 76
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b76da6d313526e6d0800000000000000
+      internalID: -2961638811535485317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[CITYPNG.COM]HD Neon Genesis Evangelion Nerv Logo PNG - 2000x2000_13'
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 349
+        width: 59
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1691a3fc1fc93f30800000000000000
+      internalID: 4555900221315454493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[CITYPNG.COM]HD Neon Genesis Evangelion Nerv Logo PNG - 2000x2000_14'
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 223
+        width: 122
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb0efdca9570e8460800000000000000
+      internalID: 7245736932219543742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[CITYPNG.COM]HD Neon Genesis Evangelion Nerv Logo PNG - 2000x2000_15'
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 219
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 156e91fa1f4028360800000000000000
+      internalID: 7170298992798590545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[CITYPNG.COM]HD Neon Genesis Evangelion Nerv Logo PNG - 2000x2000_16'
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 195
+        width: 84
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8929c8b749f2768f0800000000000000
+      internalID: -547416514927750504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[CITYPNG.COM]HD Neon Genesis Evangelion Nerv Logo PNG - 2000x2000_17'
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 189
+        width: 44
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c0b057ba1ac2b040800000000000000
+      internalID: 4662010780375363778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[CITYPNG.COM]HD Neon Genesis Evangelion Nerv Logo PNG - 2000x2000_18'
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 220
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fe2fe8ac9277f800800000000000000
+      internalID: 646111088725667574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[CITYPNG.COM]HD Neon Genesis Evangelion Nerv Logo PNG - 2000x2000_19'
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 181
+        width: 37
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0962b0268dc18a00800000000000000
+      internalID: 757112188332828940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[CITYPNG.COM]HD Neon Genesis Evangelion Nerv Logo PNG - 2000x2000_20'
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 179
+        width: 68
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e81d83eee8022d410800000000000000
+      internalID: 1500297424121942414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[CITYPNG.COM]HD Neon Genesis Evangelion Nerv Logo PNG - 2000x2000_21'
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 179
+        width: 122
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5342d5d0118ebf1d0800000000000000
+      internalID: -3315801540691942347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[CITYPNG.COM]HD Neon Genesis Evangelion Nerv Logo PNG - 2000x2000_22'
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 193
+        width: 172
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc0cb0be6d7807870800000000000000
+      internalID: 8678585839079112911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      '[CITYPNG.COM]HD Neon Genesis Evangelion Nerv Logo PNG - 2000x2000_0': 1509127949657307666
+      '[CITYPNG.COM]HD Neon Genesis Evangelion Nerv Logo PNG - 2000x2000_1': 6719236184411839768
+      '[CITYPNG.COM]HD Neon Genesis Evangelion Nerv Logo PNG - 2000x2000_10': 5880644100126468205
+      '[CITYPNG.COM]HD Neon Genesis Evangelion Nerv Logo PNG - 2000x2000_11': 5709569500977765929
+      '[CITYPNG.COM]HD Neon Genesis Evangelion Nerv Logo PNG - 2000x2000_12': -2961638811535485317
+      '[CITYPNG.COM]HD Neon Genesis Evangelion Nerv Logo PNG - 2000x2000_13': 4555900221315454493
+      '[CITYPNG.COM]HD Neon Genesis Evangelion Nerv Logo PNG - 2000x2000_14': 7245736932219543742
+      '[CITYPNG.COM]HD Neon Genesis Evangelion Nerv Logo PNG - 2000x2000_15': 7170298992798590545
+      '[CITYPNG.COM]HD Neon Genesis Evangelion Nerv Logo PNG - 2000x2000_16': -547416514927750504
+      '[CITYPNG.COM]HD Neon Genesis Evangelion Nerv Logo PNG - 2000x2000_17': 4662010780375363778
+      '[CITYPNG.COM]HD Neon Genesis Evangelion Nerv Logo PNG - 2000x2000_18': 646111088725667574
+      '[CITYPNG.COM]HD Neon Genesis Evangelion Nerv Logo PNG - 2000x2000_19': 757112188332828940
+      '[CITYPNG.COM]HD Neon Genesis Evangelion Nerv Logo PNG - 2000x2000_2': 4129291054097253875
+      '[CITYPNG.COM]HD Neon Genesis Evangelion Nerv Logo PNG - 2000x2000_20': 1500297424121942414
+      '[CITYPNG.COM]HD Neon Genesis Evangelion Nerv Logo PNG - 2000x2000_21': -3315801540691942347
+      '[CITYPNG.COM]HD Neon Genesis Evangelion Nerv Logo PNG - 2000x2000_22': 8678585839079112911
+      '[CITYPNG.COM]HD Neon Genesis Evangelion Nerv Logo PNG - 2000x2000_3': -5349231298657559517
+      '[CITYPNG.COM]HD Neon Genesis Evangelion Nerv Logo PNG - 2000x2000_4': -1982727753004907397
+      '[CITYPNG.COM]HD Neon Genesis Evangelion Nerv Logo PNG - 2000x2000_5': 8186512355156411089
+      '[CITYPNG.COM]HD Neon Genesis Evangelion Nerv Logo PNG - 2000x2000_6': 2969680733672806202
+      '[CITYPNG.COM]HD Neon Genesis Evangelion Nerv Logo PNG - 2000x2000_7': -442486094965736197
+      '[CITYPNG.COM]HD Neon Genesis Evangelion Nerv Logo PNG - 2000x2000_8': 9168465379813138369
+      '[CITYPNG.COM]HD Neon Genesis Evangelion Nerv Logo PNG - 2000x2000_9': 2671114480024761621
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
