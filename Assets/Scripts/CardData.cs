@@ -34,7 +34,7 @@ public class CardData : ScriptableObject
 
     private List<CardFaceInfo> CardFaces = new List<CardFaceInfo>();
 
-    private List<string> CardBacks = new List<string>()
+    public List<string> CardBacks = new List<string>()
     {
         "Red",
         "Green",
@@ -47,6 +47,9 @@ public class CardData : ScriptableObject
 
     private void OnEnable()
     {
+        CardFaces.Clear();
+        Cards.Clear();
+
         // List of size 40 containing object CardFaceInfo storing str FaceColor, int FaceValue
         foreach (string color in CardFaceColors)
         {
